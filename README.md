@@ -49,7 +49,8 @@ Featured Projects
 - Unity 2023 Essential Training: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-2023
 - Unity Essentials: https://learn.unity.com/u/6405f357edbc2a4b046f5f57
 
- About Me
+About Me
+ 
 My passion for game development started as a hobby and quickly grew into a full-fledged career path. I've dedicated countless hours to learning through online courses, tutorials, and community forums. This journey has not only equipped me with technical skills but also a strong problem-solving mindset and a deep understanding of what makes games fun and engaging.
 
 Gaming has been a core part of my life for as long as I can remember. What started as a hobby turned into a deep fascination with game development, leading me to teach myself how to create the immersive experiences I love. From player to creator, my journey has been driven by curiosity and a love for all things gaming.
@@ -58,11 +59,13 @@ I thrive on challenges and love experimenting with new ideas, from developing co
 
 
 What Drives Me
+
 Passion for Gaming: From childhood classics to modern masterpieces, gaming has always been my passion. This love drives me to create games that others can enjoy as much as I do.
 Learning and Innovation: The world of game development is ever-evolving, and I am committed to staying at the forefront of new technologies and methodologies.
 Community Engagement: I believe in the power of the gaming community and actively participate in forums, social media groups, and game jams to share knowledge and collaborate with fellow developers.
 
  Get in Touch
+ 
   I'm always excited to connect with other game developers, share knowledge, and collaborate on exciting projects. Whether you have a question, an idea for a project, or just want to chat about games, feel free to reach out!
 
  Let's create amazing gaming experiences together!
