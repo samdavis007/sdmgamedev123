@@ -45,9 +45,9 @@ Featured Projects
  - Other Skills: Problem-solving, creativity, teamwork, project management and time management.
 
  Certifications & Courses
-- [Become a Game Tester 2024]: https://www.udemy.com/course/qa-become-a-game-tester/
-- [Unity 2023 Essential Training]: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-2023
-- [Unity Essentials]:  https://learn.unity.com/u/6405f357edbc2a4b046f5f57
+- Become a Game Tester 2024: https://www.udemy.com/course/qa-become-a-game-tester/
+- Unity 2023 Essential Training: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-2023
+- Unity Essentials: https://learn.unity.com/u/6405f357edbc2a4b046f5f57
 
  About Me
 My passion for game development started as a hobby and quickly grew into a full-fledged career path. I've dedicated countless hours to learning through online courses, tutorials, and community forums. This journey has not only equipped me with technical skills but also a strong problem-solving mindset and a deep understanding of what makes games fun and engaging.
