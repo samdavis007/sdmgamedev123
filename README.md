@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samdavis007
-- 👀 I’m interested in game development 
+- 👋 Hi, I’m Sam Davis Martin
+- 👀 I’m interested in Game Development 
 - 🌱 I’m currently learning BTech in ComputerScience
 - 💞️ I’m looking to collaborate on gaming industry
 - 📫 How to reach me ...
