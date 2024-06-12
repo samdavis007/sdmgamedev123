@@ -32,11 +32,10 @@ I'm Sam Davis Martin a passionate gamer and self-taught game developer with a pa
 - Instagram: https://www.instagram.com/__sam.davis__?igsh=MTJiaWMyN3cwdDY3Zw==
 - Whatsapp:8921468819
 
-Featured Projects
-- **[Project 1 Name]**: [Brief description, e.g., "A 2D platformer game with hand-drawn pixel art and challenging levels. Built with Unity."]
-- **[Project 2 Name]**: [Brief description, e.g., "A VR escape room prototype focused on immersive puzzles and atmospheric storytelling. Developed using Unreal Engine."]
-- **[Project 3 Name]**: [Brief description, e.g., "An interactive story-based game made with RPG Maker, focusing on narrative depth and character development."]
-- **[Project 4 Name]**: [Brief description, e.g., "A multiplayer online battle arena (MOBA) game with unique character abilities and dynamic maps."]
+Projects
+- Flappy Bird 2D game - Flappy Bird is a simple and addictive arcade-style game where the player controls a bird that moves to the right and has to avoid hitting pipes. The player taps the screen to make the bird fly up and down and navigate through gaps in the pipes.The game ends when the bird crashes into a pipe or the ground. The player's score is based on how many pipes the bird passes through.
+- 2D Snake Game - The Snake 2D Game is a classic arcade-style game where the player controls a snake that grows in length as it eats food. The objective of the game is to eat as much food as possible without colliding with the walls or the snake's own tail. As the game progresses, the speed of the snake increases, making it more challenging to avoid collisions.
+- 2048 puzzle game - 2048 is a single-player sliding tile puzzle game where you merge tiles with equal numbers to create a tile with the number.The game is played on a 4x4 grid, with tiles that slide when you use the arrow keys or W, A, S, D keys. The game begins with two tiles with a value of either 2 or 4, and another tile appears in a random empty space after each move.
 
  Skills & Tools
  - Game Engines: Unity.
