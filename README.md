@@ -15,17 +15,8 @@ I'm Sam Davis Martin a passionate gamer and self-taught game developer with a pa
 👯 **Looking to collaborate on:** 
 - Game development projects, especially those involving innovative gameplay mechanics or storytelling.
 - Open-source game development projects to contribute and learn from the community.
-- Open to work on free projects on 2D and 3D games
+- Open to work on free projects on 2D and 3D games.
 
-💬 Ask me about:
-- Unity & C#: Basics of C# programming and working of the engine.
-- Game Design: Balancing gameplay, creating engaging levels, and narrative development.
-- Game Testing : Jira 
-- Blender: Basic 2D and 3D modeling.
-- Coding Tools: Visual Studio Code.
-
-🎨 **Portfolio:** 
-- Check out my work at [Your Portfolio Website] for a showcase of my projects, including demos and detailed descriptions of my contributions.
 
 - Email: samdavismartin123@gmail.com
 - LinkedIn: www.linkedin.com/in/sam-davis-martin-82059b232
