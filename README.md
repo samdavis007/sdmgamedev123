@@ -1,4 +1,4 @@
- Hello, Fellow Gamers and Developers! 🎮
+Hello, Fellow Gamers and Developers! 🎮
 
 I'm Sam Davis Martin a passionate gamer and self-taught game developer with a passion for creating immersive and innovative games. My journey in game development has been driven by curiosity, determination, and a love for both playing and making games 🎮👾.
 
@@ -12,12 +12,12 @@ I'm Sam Davis Martin a passionate gamer and self-taught game developer with a pa
 - Continuous Learning: The tech and gaming worlds are always evolving, and so I'm committed to staying up-to-date with the latest trends, technologies, and methodologies to continuously enhance my skills and the quality of my games.
 - Problem Solving: I enjoy tackling complex problems and finding creative solutions, whether it’s optimizing game performance or designing intricate gameplay systems.
   
-👯 **Looking to collaborate on:** 
+👯 Looking to collaborate on: 
 - Game development projects, especially those involving innovative gameplay mechanics or storytelling.
 - Open-source game development projects to contribute and learn from the community.
 - Open to work on free projects on 2D and 3D games.
 
-
+To Connect 
 - Email: samdavismartin123@gmail.com
 - LinkedIn: www.linkedin.com/in/sam-davis-martin-82059b232
 - Instagram: https://www.instagram.com/__sam.davis__?igsh=MTJiaWMyN3cwdDY3Zw==
