@@ -28,7 +28,6 @@ Projects
 https://youtube.com/shorts/lvkhpi7NHJM?si=wymXyX-cEB390APT
 
 - 2D Snake Game - The Snake 2D Game is a classic arcade-style game where the player controls a snake that grows in length as it eats food. The objective of the game is to eat as much food as possible without colliding with the walls or the snake's own tail. As the game progresses, the speed of the snake increases, making it more challenging to avoid collisions.
-
 https://youtu.be/t125wHhh1GY?si=p5Ob8do6ftTl5oQt
   
 - 2048 puzzle game - 2048 is a single-player sliding tile puzzle game where you merge tiles with equal numbers to create a tile with the number.The game is played on a 4x4 grid, with tiles that slide when you use the arrow keys or W, A, S, D keys. The game begins with two tiles with a value of either 2 or 4, and another tile appears in a random empty space after each move.
