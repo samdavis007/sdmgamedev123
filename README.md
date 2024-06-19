@@ -41,8 +41,7 @@ https://youtu.be/YxkwnSmJcug?si=P7CFEMtXoWaSK-Ui
 
  Certifications & Courses
 - Become a Game Tester 2024: https://www.udemy.com/course/qa-become-a-game-tester/
-- Unity 2023 Essential Training: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-2023
-- Unity Essentials: https://learn.unity.com/u/6405f357edbc2a4b046f5f57
+- Unity 2023 Essential Training: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-202
 
 
 
