@@ -33,6 +33,8 @@ https://youtu.be/t125wHhh1GY?si=p5Ob8do6ftTl5oQt
 - 2048 puzzle game - 2048 is a single-player sliding tile puzzle game where you merge tiles with equal numbers to create a tile with the number.The game is played on a 4x4 grid, with tiles that slide when you use the arrow keys or W, A, S, D keys. The game begins with two tiles with a value of either 2 or 4, and another tile appears in a random empty space after each move.
 https://youtu.be/YxkwnSmJcug?si=P7CFEMtXoWaSK-Ui
 
+- Super Capsule 3d game - It is actually a 3d game a survival based game it consists of a main character called a capsule we should to complete the levels and collect the coins and their will be obstacles to end the players life. https://youtube.com/shorts/Rccy9pbWq5g?si=a2Hw4PN_Ao4pyinS
+
  Skills & Tools
  - Game Engines: Unity.
  - Programming Languages: C#, C++, C.
@@ -43,7 +45,7 @@ https://youtu.be/YxkwnSmJcug?si=P7CFEMtXoWaSK-Ui
 - Become a Game Tester 2024: https://www.udemy.com/course/qa-become-a-game-tester/
 - Unity 2023 Essential Training: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-202
 - Gameathon 6.0 Global Level Contest: Participated in Global Level Contest organized by Department of Information Science and Engineering & BitsNBytes, on Jyothy Institute of Technology.
-- TILTEDU Online Bootcamp: Getting started with Game Development using Unity organized by TILTEDU.
+- TILTEDU Online Bootcamp: Attended an Online Bootcamp on Getting started with Game Development using Unity organized by TILTEDU.
 - Techmaghi: I had completed a 5 day internship program on hybrid models(online+offline) in field of Game Development.
 
 
