@@ -24,7 +24,7 @@ To Connect
 - Whatsapp:8921468819
 
 Projects
-- Flappy Bird 2D game - Flappy Bird is a simple and addictive arcade-style game where the player controls a bird that moves to the right and has to avoid hitting pipes. The player taps the screen to make the bird fly up and down and navigate through gaps in the pipes.The game ends when the bird crashes into a pipe or the ground. The player's score is based on how many pipes the bird passes through.
+- Flappy Bird 2D game - The bird flaps its wings and gains score each time the bird passes through the pipes click the mouse or press the spacebar. The objective is to navigate the bird through as many pipes as possible, with the game ending when the bird collides with a pipe or the ground.
 https://youtube.com/shorts/lvkhpi7NHJM?si=wymXyX-cEB390APT
 
 - 2D Snake Game - The Snake 2D Game is a classic arcade-style game where the player controls a snake that grows in length as it eats food. The objective of the game is to eat as much food as possible without colliding with the walls or the snake's own tail. As the game progresses, the speed of the snake increases, making it more challenging to avoid collisions.
