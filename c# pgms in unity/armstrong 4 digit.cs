@@ -1,0 +1,38 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class armstrong4digit : MonoBehaviour
+{
+    public int originalNum,remainder,result=0,num;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+       if(Input.GetKeyDown(KeyCode.A))
+       {
+       originalNum=num;
+        while(originalNum!=0)
+         // remainder contains the last digit
+        {
+            remainder=originalNum%10;
+            result=result+remainder*remainder*remainder*remainder;
+            // removing last digit from the orignal number
+            originalNum/=10;
+        }
+       if(result==num)
+        {
+            Debug.Log("is an armstrong");
+        }
+        else
+        {
+            Debug.Log("not armstrong");
+        }
+       } 
+    }
+}
