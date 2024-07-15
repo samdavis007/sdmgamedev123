@@ -44,7 +44,6 @@ https://youtu.be/YxkwnSmJcug?si=P7CFEMtXoWaSK-Ui
  Certifications & Courses
 - Become a Game Tester 2024: https://www.udemy.com/course/qa-become-a-game-tester/
 - Unity 2023 Essential Training: https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-202
-- Gameathon 6.0 Global Level Contest: Participated in Global Level Contest organized by Department of Information Science and Engineering & BitsNBytes, on Jyothy Institute of Technology.
 - TILTEDU Online Bootcamp: Attended an Online Bootcamp on Getting started with Game Development using Unity organized by TILTEDU.
 - Techmaghi: I had completed a 5 day internship program on hybrid models(online+offline) in field of Game Development.
 
