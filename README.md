@@ -26,13 +26,6 @@ To Connect
 Projects
 - Flappy Bird 2D game - The bird flaps its wings and gains score each time the bird passes through the pipes click the mouse or press the spacebar. The objective is to navigate the bird through as many pipes as possible, with the game ending when the bird collides with a pipe or the ground.
 https://youtube.com/shorts/lvkhpi7NHJM?si=wymXyX-cEB390APT
-
-- 2D Snake Game - The Snake 2D Game is a classic arcade-style game where the player controls a snake that grows in length as it eats food. The objective of the game is to eat as much food as possible without colliding with the walls or the snake's own tail. As the game progresses, the speed of the snake increases, making it more challenging to avoid collisions.
-https://youtu.be/t125wHhh1GY?si=p5Ob8do6ftTl5oQt
-  
-- 2048 puzzle game - 2048 is a single-player sliding tile puzzle game where you merge tiles with equal numbers to create a tile with the number.The game is played on a 4x4 grid, with tiles that slide when you use the arrow keys or W, A, S, D keys. The game begins with two tiles with a value of either 2 or 4, and another tile appears in a random empty space after each move.
-https://youtu.be/YxkwnSmJcug?si=P7CFEMtXoWaSK-Ui
-
 - Super Capsule 3d game - It is actually a 3d game a survival based game it consists of a main character called a capsule we should to complete the levels and collect the coins and their will be obstacles to end the players life. https://youtube.com/shorts/Rccy9pbWq5g?si=a2Hw4PN_Ao4pyinS
 - - Gameathon 6.0 Global Level Contest: Participated in Global Level Contest organized by Department of Information Science and Engineering & BitsNBytes, on Jyothy Institute of Technology,Bangalore.
 
