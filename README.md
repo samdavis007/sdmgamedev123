@@ -27,7 +27,7 @@ Projects
 - Flappy Bird 2D game - The bird flaps its wings and gains score each time the bird passes through the pipes click the mouse or press the spacebar. The objective is to navigate the bird through as many pipes as possible, with the game ending when the bird collides with a pipe or the ground.
 https://youtube.com/shorts/lvkhpi7NHJM?si=wymXyX-cEB390APT
 - Super Capsule 3d game - It is actually a 3d game a survival based game it consists of a main character called a capsule we should to complete the levels and collect the coins and their will be obstacles to end the players life. https://youtube.com/shorts/Rccy9pbWq5g?si=a2Hw4PN_Ao4pyinS
-- - Gameathon 6.0 Global Level Contest: Participated in Global Level Contest organized by Department of Information Science and Engineering & BitsNBytes, on Jyothy Institute of Technology,Bangalore.
+- Gameathon 6.0 Global Level Contest: Participated in Global Level Contest organized by Department of Information Science and Engineering & BitsNBytes, on Jyothy Institute of Technology,Bangalore.
 
  Skills & Tools
  - Game Engines: Unity.
