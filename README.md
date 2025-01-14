@@ -6,8 +6,7 @@ I'm Sam Davis Martin a passionate gamer and self-taught game developer with a pa
 
 🌱 Currently learning:
 - Unity & C#: Enhancing my skills in creating interactive and engaging gameplay experiences.
-- Programming: Writing efficient and scalable code in C#, C++, to bring my game ideas to life.
-- Design & Modelling: Creating 2D and 3D models using Blender.
+- Programming: Writing efficient and scalable code in C#, to bring my game ideas to life.
 - Game Testing : It is a software testing process for quality control of video games.
 - Continuous Learning: The tech and gaming worlds are always evolving, and so I'm committed to staying up-to-date with the latest trends, technologies, and methodologies to continuously enhance my skills and the quality of my games.
 - Problem Solving: I enjoy tackling complex problems and finding creative solutions, whether it’s optimizing game performance or designing intricate gameplay systems.
